@@ -1,0 +1,25 @@
+{
+  "name": "webprosjekt",
+  "version": "1.0.0",
+  "description": "creating prototype of website for school",
+  "main": "testindex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hekkii/html-test-riktig-pc.git"
+  },
+  "keywords": [
+    "noob",
+    "codefordogs",
+    "stupid",
+    "googled"
+  ],
+  "author": "group36",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hekkii/html-test-riktig-pc/issues"
+  },
+  "homepage": "https://github.com/Hekkii/html-test-riktig-pc#readme"
+}
